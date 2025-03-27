@@ -1,0 +1,10 @@
+database:
+  host: localhost
+  port: 5432
+  user: username
+  password: password
+  dbname: my_database
+
+file_paths:
+  input_csv: "data/input.csv"
+  output_csv: "data/output.csv"
